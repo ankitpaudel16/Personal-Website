@@ -1,0 +1,35 @@
+body{
+     color:black;
+
+     background-color: #2f4353;
+background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+}
+
+a{
+    color:green;
+    text-decoration: none;
+}
+.navbar{
+    width:100%;
+ position:fixed;
+  background-color:teal;
+  overflow:hidden;
+  padding:17px 5px 17px 5px;
+  margin:-10px;
+  border:1px solid white;
+}
+.navbar a{
+    text-align:center;
+    color:white;
+    font-size:17px;
+    padding:4.2%;
+}
+.navbar a:hover{
+    transform:scale(1.2);
+    color:black;
+    background-color:turquoise;
+}
+table{
+    text-align:left;
+
+}
